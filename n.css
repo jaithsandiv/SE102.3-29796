@@ -48,15 +48,19 @@ footer .row .col-xl-5 {
 h1 .text-center em {
     color: #FFFFFF;
 }
-.container-fluid .container .container {
-    border-bottom: solid;
-	border-bottom-width: 2px;
-    border-bottom-color: #FFFFFF;
-	color: white;
+.container-fluid .container #news {
+	color: black;
+	margin: 7px auto;
+	background-color: white;
+	border-radius: 7px;
+	padding-bottom: 7px;
 }
 .container-fluid .container #contact {
-	padding: 2%;
-	margin: 0px auto;
-	align-content: center;
-	align-items: center;
+	color: black;
+	margin: 7px auto;
+	background-color: white;
+	border-radius: 7px;
+	padding-bottom: 7px;
+	padding-top: 7px;	
+	width: 500px; 
 }
