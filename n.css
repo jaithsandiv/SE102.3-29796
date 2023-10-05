@@ -48,3 +48,15 @@ footer .row .col-xl-5 {
 h1 .text-center em {
     color: #FFFFFF;
 }
+.container-fluid .container .container {
+    border-bottom: solid;
+	border-bottom-width: 2px;
+    border-bottom-color: #FFFFFF;
+	color: white;
+}
+.container-fluid .container #contact {
+	padding: 2%;
+	margin: 0px auto;
+	align-content: center;
+	align-items: center;
+}
